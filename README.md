@@ -1,2 +1,2 @@
-# Med-um-S-tes--Clone
+# Med-um-Sitesi-Clone
 Şu ana kadar öğrendiğim bilgiler ile MEDİUM sitesi clone çalışması yapıyorum
